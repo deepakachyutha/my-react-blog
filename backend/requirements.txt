@@ -1,0 +1,8 @@
+Flask
+pymongo[srv]
+python-dotenv
+openai
+certifi
+requests
+Flask-CORS
+dnspython
