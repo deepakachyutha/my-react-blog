@@ -1,0 +1,15 @@
+Environments
+.env
+.venv
+venvblog/
+*.pyc
+
+Node
+node_modules/
+dist/
+build/
+
+macOS
+.DS_Store
+
+package-lock.json
